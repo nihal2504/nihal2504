@@ -22,7 +22,7 @@ My work sits at the intersection of **formal verification**, **smart contract se
 
 - 🔐 **Day job:** BMC + DSE pipelines for Solidity smart contracts and C/C++ codebases (CBMC, KLEE, solc-bmc)
 - 🤖 **ML focus:** Privacy-preserving systems — Federated Learning + Differential Privacy (Opacus)
-- 🦀 **Currently learning:** Rust for systems-level formal verification (Kani verifier)
+- 🦀 **Primary Project:** Rust for systems-level formal verification (Kani verifier)
 - 🎓 **Background:** B.Tech Computer Science Engineering, KITS Warangal (2025)
 
 ---
@@ -30,38 +30,31 @@ My work sits at the intersection of **formal verification**, **smart contract se
 ## 🛠️ Tech Stack
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **ML / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Security & Formal Verification**
-
-![CBMC](https://img.shields.io/badge/CBMC-BMC-8B5CF6?style=flat-square)
-![KLEE](https://img.shields.io/badge/KLEE-DSE-6D28D9?style=flat-square)
-![Kani](https://img.shields.io/badge/Kani-Rust%20Verifier-F59E0B?style=flat-square)
-![Solidity](https://img.shields.io/badge/Solidity%20Auditing-363636?style=flat-square&logo=solidity&logoColor=white)
-
-**DevOps & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![CBMC](https://img.shields.io/badge/CBMC-BMC-8B5CF6?style=flat-square) ![KLEE](https://img.shields.io/badge/KLEE-DSE-6D28D9?style=flat-square) ![Kani](https://img.shields.io/badge/Kani-Rust%20Verifier-F59E0B?style=flat-square) ![Solidity Auditing](https://img.shields.io/badge/Solidity%20Auditing-363636?style=flat-square&logo=solidity&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🦀 [Rust Smart Contract Formal Verification Engine](https://github.com/nihal2504/Smart-Contract-Analyzer-rs)
+A formal verification and branch-coverage suite for Rust smart contracts. Automates reachability analysis using **Kani symbolic execution** and generates **LLVM coverage reports** for Solana and NEAR programs.
+
+`Rust` `Kani` `LLVM` `Blockchain Security` `Solana`
+
+---
+
+### 🐍 [Python AST-Based Coverage Analyzer](https://github.com/nihal2504/Ast-Coverage-Analyzer)
+A robust, **AST-driven** analysis tool designed to dynamically inject **soft-assertion probes** into Python code. Provides high-precision measurements of conditional coverage without halting program execution.
+
+`Python` `AST` `Software Testing` `Reachability Analysis`
+
+---
 
 ### 🔒 [Federated Learning with Differential Privacy](https://github.com/nihal2504/Federated-Learning-Privacy)
 Decentralized ML framework where raw data never leaves the device. Integrated **Opacus** for DP with gradient clipping and noise injection — proving high-accuracy learning under strict privacy constraints.
@@ -70,25 +63,14 @@ Decentralized ML framework where raw data never leaves the device. Integrated **
 
 ---
 
-### 💳 [Credit Card Fraud Detection](https://github.com/nihal2504/fraud-detection-project)
-Production-ready fraud classifier on real-world imbalanced transaction data.
-**87% precision · 92% recall** — achieved via SMOTE oversampling + decision-threshold tuning.
+## 📊 Verification Results & Proofs
 
-`Python` `Scikit-learn` `Logistic Regression` `SMOTE` `Imbalanced Data`
+I believe in **evidence-based security**. My projects include comprehensive verification reports:
 
----
-
-### 📷 [Real-Time Object Detection](https://github.com/nihal2504/Object-Detection)
-Camera-based object recognition using **TensorFlow Lite + PyTorch** on live feeds. Edge AI inference for accurate classification and live tracking.
-
-`PyTorch` `TensorFlow Lite` `OpenCV` `Edge AI`
-
----
-
-### 🔐 [Image Relational Authentication System](https://github.com/nihal2504)
-Multi-factor authentication combining **AES-256 encryption** with cognitive image recognition. Engineered secure session handling and file sanitization in Flask.
-
-`Python` `Flask` `AES-256` `SQLite` `Security`
+| Project | Verification Method | Proofs Provided |
+| :--- | :--- | :--- |
+| **Rust Analyzer** | Kani Symbolic Execution | [View Reports](https://github.com/nihal2504/Smart-Contract-Analyzer-rs/releases/latest) |
+| **Python Analyzer** | AST-Based Probes | [View Reports](https://github.com/nihal2504/Ast-Coverage-Analyzer/releases/latest) |
 
 ---
 
@@ -101,7 +83,7 @@ Working on **TrustInn**, a blockchain security research platform. Building forma
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
