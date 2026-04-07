@@ -42,6 +42,13 @@ My work sits at the intersection of **formal verification**, **smart contract se
 
 ## 🚀 Featured Projects
 
+### 🛡️ [Verifiable ML Model Aggregator](https://github.com/nihal2504)
+A secure Federated Learning network featuring a multi-layer Neural Network architecture. Uses **Kani Bounded Model Checking** to formally guarantee that model aggregation is resilient against adversarial `NaN` poisoning and memory out-of-bounds attacks.
+
+`Rust` `Kani` `Federated Learning` `Formal Verification` `Adversarial ML`
+
+---
+
 ### 🦀 [Rust Smart Contract Formal Verification Engine](https://github.com/nihal2504/Smart-Contract-Analyzer-rs)
 A formal verification and branch-coverage suite for Rust smart contracts. Automates reachability analysis using **Kani symbolic execution** and generates **LLVM coverage reports** for Solana and NEAR programs.
 
@@ -65,10 +72,11 @@ Decentralized ML framework where raw data never leaves the device. Integrated **
 
 ## 📊 Verification Results & Proofs
 
-I believe in **evidence-based security**. My projects include comprehensive verification reports:
+I believe in **evidence-based security**. My projects include comprehensive formal verification reports:
 
 | Project | Verification Method | Proofs Provided |
 | :--- | :--- | :--- |
+| **ML Aggregator** | Kani Bounded Model Checking | [View Results](https://github.com/nihal2504/releases/latest) |
 | **Rust Analyzer** | Kani Symbolic Execution | [View Reports](https://github.com/nihal2504/Smart-Contract-Analyzer-rs/releases/latest) |
 | **Python Analyzer** | AST-Based Probes | [View Reports](https://github.com/nihal2504/Ast-Coverage-Analyzer/releases/latest) |
 
