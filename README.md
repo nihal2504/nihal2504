@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nallella%20Nihal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nallella-nihal-76bb42251/)
-[![Email](https://img.shields.io/badge/Email-nallellanihal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nallellanihal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nallellanihal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nallellanihal.cs@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-34D399?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
