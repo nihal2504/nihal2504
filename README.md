@@ -41,21 +41,19 @@
 ```js
 const nihal = {
   role: "Software Engineer (Security & Formal Verification)",
-  mindset: "Break systems → Understand deeply → Secure them",
+  mindset: "Break → Analyze → Secure",
   strengths: [
     "Low-level debugging",
-    "Formal verification thinking",
-    "Security-first mindset",
-    "Automation over manual work"
+    "Formal verification",
+    "Security-first thinking",
+    "Automation mindset"
   ],
-  interests: [
-    "Blockchain Security",
-    "Backend Systems",
-    "AI + Security",
-    "DevOps & Infra"
+  currentFocus: [
+    "System Design",
+    "FastAPI",
+    "Blockchain Security"
   ],
-  philosophy: "If it’s not formally verified, it’s not fully trusted.",
-  funFact: "I enjoy breaking code more than writing it 😄"
+  philosophy: "Trust nothing unless it's verified.",
 };
 ```
 
