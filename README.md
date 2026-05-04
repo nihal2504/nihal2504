@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:24C6DC&height=220&section=header&text=Nallella%20Nihal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Blockchain%20Security%20%7C%20Formal%20Verification%20%7C%20AI%2FML&descAlignY=58&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nallella%20Nihal&fontSize=48&fontColor=00FFAB&animation=fadeIn&fontAlignY=38&desc=Security%20%7C%20Formal%20Verification%20%7C%20AI%2FML&descAlignY=58&descColor=00FFAB" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Software+Engineer;Blockchain+Security+Engineer;Formal+Verification+Enthusiast;AI+%2B+ML+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFAB&center=true&vCenter=true&width=700&lines=Initializing+Nihal...;Security+Engineer+in+Progress;Breaking+Systems+to+Secure+Them;Formal+Verification+%7C+AI+%7C+Backend" />
 
 </div>
 
@@ -17,8 +17,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nallella%20Nihal-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nallella-nihal)
-[![GitHub](https://img.shields.io/badge/GitHub-NallellaNihal-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NallellaNihal)
-[![Email](https://img.shields.io/badge/Email-nallellanihal.cs%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nallellanihal.cs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-NallellaNihal-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NallellaNihal)
+[![Email](https://img.shields.io/badge/Email-nallellanihal.cs%40gmail.com-00FFAB?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:nallellanihal.cs@gmail.com)
 
 </div>
 
@@ -26,13 +26,13 @@
 
 ## 🎓 About Me
 
-> Software Engineer at **NITMiner Technologies Pvt. Ltd.**, working on the **TrustInn blockchain security platform** in collaboration with **NIT Warangal**.
+> Software Engineer at **NITMiner Technologies Pvt. Ltd.**, working on **TrustInn blockchain security platform** in collaboration with **NIT Warangal**.
 
 * 🔐 Building **smart contract security pipelines**
 * ⚙️ Working with **CBMC, KLEE, solc-bmc (BMC + DSE)**
-* 🧠 Interested in **Backend Engineering, Security, AI/ML, DevOps**
-* 🌱 Currently learning **System Design, FastAPI, Docker, Azure**
-* 🎯 Goal: Land a **Software Engineer / Security Engineer role**
+* 🧠 Interested in **Backend, Security, AI/ML, DevOps**
+* 🌱 Learning **System Design, FastAPI, Docker, Azure**
+* 🎯 Goal: Become a **top-tier Security Engineer**
 
 ---
 
@@ -40,7 +40,7 @@
 
 ```js
 const nihal = {
-  role: "Software Engineer (Security & Formal Verification)",
+  role: "Security Engineer (Formal Verification)",
   mindset: "Break → Analyze → Secure",
   strengths: [
     "Low-level debugging",
@@ -48,12 +48,14 @@ const nihal = {
     "Security-first thinking",
     "Automation mindset"
   ],
-  currentFocus: [
-    "System Design",
-    "FastAPI",
-    "Blockchain Security"
+  interests: [
+    "Blockchain Security",
+    "Backend Systems",
+    "AI + Security",
+    "DevOps"
   ],
   philosophy: "Trust nothing unless it's verified.",
+  funFact: "I enjoy breaking code more than writing it 😄"
 };
 ```
 
@@ -63,33 +65,30 @@ const nihal = {
 
 ### 🔤 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00FFAB?style=for-the-badge\&logo=python\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
 
-### ⚙️ Backend Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+---
 
 ### 🔐 Security & Formal Verification
 
 ![CBMC](https://img.shields.io/badge/CBMC-8B5CF6?style=for-the-badge)
 ![KLEE](https://img.shields.io/badge/KLEE-6D28D9?style=for-the-badge)
 ![solc--bmc](https://img.shields.io/badge/solc--bmc-FF6B6B?style=for-the-badge)
-![Kani](https://img.shields.io/badge/Kani-F59E0B?style=for-the-badge)
+![Kani](https://img.shields.io/badge/Kani-00FFAB?style=for-the-badge)
 ![Z3](https://img.shields.io/badge/Z3-10B981?style=for-the-badge)
 
-### 🗄️ Databases & Tools
+---
 
+### ⚙️ Backend & Tools
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-00FFAB?style=for-the-badge\&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
@@ -99,8 +98,6 @@ const nihal = {
 ## 🚀 Featured Projects
 
 ### 🔐 Smart Contract Analyzer VeriRust
-
-`Solidity` `CBMC` `KLEE` `Formal Verification`
 
 * Built automation pipelines for smart contract verification
 * Integrated CBMC, KLEE, solc-bmc
@@ -112,11 +109,9 @@ const nihal = {
 
 ### 🤖 AI Contract Contradiction Detector
 
-`Python` `NLP` `Transformers`
-
-* Detects contradictions in legal contracts
-* Uses DeBERTa + HuggingFace
-* Supports TXT/PDF + analytics export
+* NLP-based contradiction detection system
+* Built using DeBERTa + HuggingFace
+* Supports PDF/TXT with analytics export
 
 🔗 https://github.com/NallellaNihal/AI-Contract-Contradiction-Detector
 
@@ -124,10 +119,8 @@ const nihal = {
 
 ### 🔐 Flask Secure Auth
 
-`Flask` `Security` `Encryption`
-
 * Image-based authentication system
-* AES encryption (Fernet)
+* AES encryption using Fernet
 * Secure login & session handling
 
 🔗 https://github.com/NallellaNihal/flask-secure-auth
@@ -140,10 +133,9 @@ const nihal = {
 
 **NITMiner Technologies Pvt. Ltd. | July 2025 – Present**
 
-* Working on TrustInn blockchain security platform
-* Built verification pipelines for Solidity and C/C++
+* Built formal verification pipelines for Solidity and C/C++
 * Integrated CBMC, KLEE, solc-bmc workflows
-* Automated security validation reports
+* Automated vulnerability detection and reporting
 
 ---
 
@@ -176,9 +168,8 @@ const nihal = {
 ```js
 const currentGoals = {
   learning: ["System Design", "FastAPI", "Docker", "Azure"],
-  building: ["Security Automation Tools", "AI-powered Systems"],
+  building: ["Security Automation Tools", "AI Systems"],
   exploring: ["Blockchain Security", "DevOps"],
-  goal: "Software Engineer / Security Engineer role"
 };
 ```
 
@@ -188,8 +179,8 @@ const currentGoals = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/nallella-nihal)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge\&logo=gmail)](mailto:nallellanihal.cs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/nallella-nihal)
+[![Email](https://img.shields.io/badge/Email-Message-00FFAB?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:nallellanihal.cs@gmail.com)
 
 </div>
 
@@ -197,16 +188,16 @@ const currentGoals = {
 
 <div align="center">
 
-### 💡 *"Security isn't a feature, it's a guarantee."*
+### 💡 *"Trust nothing unless it's verified."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=NallellaNihal\&color=blueviolet\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=NallellaNihal\&color=00ffab\&style=for-the-badge)
 
-⭐️ Open to Software Engineering, Backend, Security, and AI/ML roles
+⭐️ Open to Software Engineering, Security, and AI/ML roles
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24C6DC,50:DD2476,100:FF512F&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
 </div>
