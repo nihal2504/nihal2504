@@ -10,9 +10,9 @@
 
 </div>
 
-<h1 align="center">👋 Hi, I'm Nallella Nihal</h1>
+<h1 align="center"> Hi, I'm Nallella Nihal</h1>
 
-<h3 align="center">🚀 Software Engineer | Blockchain Security | Formal Verification | AI/ML</h3>
+<h3 align="center">Software Engineer | Blockchain Security | Formal Verification | AI/ML</h3>
 
 <div align="center">
 
@@ -55,7 +55,7 @@ const nihal = {
     "DevOps"
   ],
   philosophy: "Trust nothing unless it's verified.",
-  funFact: "I enjoy breaking code more than writing it 😄"
+  funFact: "I enjoy breaking code more than writing it "
 };
 ```
 
@@ -153,7 +153,7 @@ const nihal = {
 
 ---
 
-## 🌟 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -163,7 +163,7 @@ const nihal = {
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```js
 const currentGoals = {
@@ -175,7 +175,7 @@ const currentGoals = {
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -188,11 +188,11 @@ const currentGoals = {
 
 <div align="center">
 
-### 💡 *"Trust nothing unless it's verified."*
+### *"Trust nothing unless it's verified."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NallellaNihal\&color=00ffab\&style=for-the-badge)
 
-⭐️ Open to Software Engineering, Security, and AI/ML roles
+Open to Software Engineering, Security, and AI/ML roles
 
 </div>
 
